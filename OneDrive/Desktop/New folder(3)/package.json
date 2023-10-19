@@ -1,0 +1,27 @@
+{
+  "name": "mernestate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/index.js",
+    "dev": "nodemon api/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaAlugani/mernEstate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AdityaAlugani/mernEstate/issues"
+  },
+  "homepage": "https://github.com/AdityaAlugani/mernEstate#readme",
+  "description": ""
+}
